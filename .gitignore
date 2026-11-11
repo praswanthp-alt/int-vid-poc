@@ -1,0 +1,11 @@
+.argolis-config.env
+.venv/
+__pycache__/
+*.pyc
+terraform/.terraform/
+terraform/.terraform.lock.hcl
+terraform/tfplan
+terraform/*.tfstate
+terraform/*.tfstate.*
+terraform/terraform.tfvars
+terraform/.terraform.tfstate.lock.info

@@ -1,0 +1,8 @@
+billing_account      = "01XXXX-XXXXXX-XXXXXX"
+org_id               = "123456789012"
+folder_id            = "" # Optional: set if creating under an Argolis subfolder
+project_prefix       = "isrg-hipaa-vid"
+region               = "us-central1"
+operator_email       = "admin@<your-domain>.altostrat.com"
+audit_retention_days = 2190
+lock_audit_bucket    = false

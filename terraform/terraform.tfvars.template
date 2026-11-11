@@ -1,0 +1,9 @@
+# Sterilized Argolis template — rendered automatically by ./setup-argolis-sandbox.sh
+billing_account      = "__ARGOLIS_BILLING_ACCOUNT__"
+org_id               = "__ARGOLIS_ORG_ID__"
+folder_id            = "__ARGOLIS_FOLDER_ID__"
+project_prefix       = "__ARGOLIS_PROJECT_PREFIX__"
+region               = "__ARGOLIS_REGION__"
+operator_email       = "__ARGOLIS_USER__"
+audit_retention_days = 2190
+lock_audit_bucket    = false
